@@ -1,6 +1,3 @@
-# Network-Analysis---Amazon-Books
-
-
 
 # NETWORK ANALYSIS - AMAZON BOOK DATA
 
